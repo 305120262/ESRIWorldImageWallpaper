@@ -1,0 +1,9 @@
+D:\AppDatas\VS2013\Projects\ESRIWorldImageWallpaper\ESRIWallpaperService\bin\Release\ESRIWallpaperService.exe.config
+D:\AppDatas\VS2013\Projects\ESRIWorldImageWallpaper\ESRIWallpaperService\bin\Release\ESRIWallpaperService.exe
+D:\AppDatas\VS2013\Projects\ESRIWorldImageWallpaper\ESRIWallpaperService\bin\Release\ESRIWallpaperService.pdb
+D:\AppDatas\VS2013\Projects\ESRIWorldImageWallpaper\ESRIWallpaperService\obj\Release\ESRIWallpaperService.GISResource.resources
+D:\AppDatas\VS2013\Projects\ESRIWorldImageWallpaper\ESRIWallpaperService\obj\Release\ESRIWallpaperService.ProjectInstaller.resources
+D:\AppDatas\VS2013\Projects\ESRIWorldImageWallpaper\ESRIWallpaperService\obj\Release\ESRIWallpaperService.Service1.resources
+D:\AppDatas\VS2013\Projects\ESRIWorldImageWallpaper\ESRIWallpaperService\obj\Release\ESRIWallpaperService.csproj.GenerateResource.Cache
+D:\AppDatas\VS2013\Projects\ESRIWorldImageWallpaper\ESRIWallpaperService\obj\Release\ESRIWallpaperService.exe
+D:\AppDatas\VS2013\Projects\ESRIWorldImageWallpaper\ESRIWallpaperService\obj\Release\ESRIWallpaperService.pdb
